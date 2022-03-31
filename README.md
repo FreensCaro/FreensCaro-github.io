@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Freens Caro
+Owned by Freens Caro
 
 You can use the [editor on GitHub](https://github.com/FreensCaro/FreensCaro-github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
